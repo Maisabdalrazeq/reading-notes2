@@ -2,11 +2,11 @@
 
 *This page will be about solving assignments and daily reads about MarkDown, LHTML, and CSS, and some new languages and topics that we will learn*
 
-**table of contents**
+**list of contents**
 
 1.  [Read1](https://maisabdalrazeq.github.io/reading-notes2/class-01)
 
-2.  [Read2]()
+2.  [Read2](https://maisabdalrazeq.github.io/reading-notes2/class-02)
 
 3.  [read3]()
 
