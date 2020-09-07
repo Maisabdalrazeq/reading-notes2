@@ -1,0 +1,63 @@
+# WELCOME TO THE READ03 PAGE..
+
+**Their is two kinds of lists use in HTML**
+
+*'Oreder list'*
+
+An ordered list starts with the <"ol"> tag. Each list item starts with the <"li"> tag.
+
+![image](https://i1.wp.com/codeexercise.com/wp-content/uploads/2016/10/order-list-og.png?resize=363%2C192 )
+
+*thier is a different style-type in ordered list such as:* 
+
+1. Decimal.
+2. Decimal with leading zeros.
+3. Lowercase ascii letters.
+4. lowercase roman numerals.
+
+
+*'Unordered list'*
+
+An unordered list starts with the <"ul"> tag. Each list item starts with the <"li"> tag.
+
+![image](https://docs.nomagic.com/download/attachments/36311653/HTML%20tag%20for%20fragments%20of%20unordered%20list.png?version=1&modificationDate=1446608965333&api=v2 )
+
+
+*their is a different style-type in unordered list such as:* 
+
+- Disc.
+- Square.
+- circle.
+- None-no bullets.
+
+**You can set several properties that affect the appearance of
+these boxes..here some of these properties:*
+
+1. *Box dimensions*
+
+![image](data:image/png;base64,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)
+
+*Each box has a content area (text an image) and optional surrounding padding, border, and margin areas; the size of each area is specified by properties*
+
+2. *Margin properties: 'margin-top', 'margin-right', 'margin-bottom', 'margin-left', and 'margin'.*
+
+3. *Padding properties: 'padding-top', 'padding-right', 'padding-bottom', 'padding-left', and 'padding'.*
+
+# What is JAVASCRIPT?
+
+*Javascript is a dynamic computer programming language. It is lightweight and most 
+commonly used as a part of web pages, whose implementations allow client-side
+script to interact with the user and make dynamic pages. It is an interpreted
+programming language with object-oriented capabilities.*
+
+# What is the SWITCH statement?
+
+*The switch statement evaluates an expression, matching the expression's value to a case clause, and executes statements associated with that case, as well as statements in cases that follow the matching case.*
+
+
+
+
+
+
+
+
