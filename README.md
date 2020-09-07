@@ -8,7 +8,7 @@
 
 2.  [Read2](https://maisabdalrazeq.github.io/reading-notes2/class-02)
 
-3.  [read3]()
+3.  [read3](https://maisabdalrazeq.github.io/reading-notes2/read03)
 
 4.  [Read4]()
 
