@@ -42,5 +42,19 @@ so the result will be like this (<a href="http://www.imdb.com">IMDB</a> )
 
 ![image](https://miro.medium.com/max/732/1*DBg85yAZexDLyxr6G1rAiQ.png)
 
+**What is "pair programming" ?**
+
+*pair programming is where two developers work using only one machine. Each one has a keyboard and a mouse. One programmer acts as the driver who codes while the other will serve as the observer who will check the code being written, proofread and spell check it, while also figuring out where to go next. These roles can be switched at any time: the driver will then become the observer and vice versa.*
+
+**6 Reasons for Pair Programming..**
+
+1. Greater efficiency.
+2. An effective way to share knowledge.
+3. Develops your staff’s interpersonal skills
+3. Social skills.
+3. Work environment readiness.
+3. Engaged collaboration.
+
+![image](https://miro.medium.com/focal/800/421/50/36/0*vwktgSPc1VQRLB_r.png)
 
 
