@@ -15,7 +15,7 @@
 
 5.  [Read5](https://maisabdalrazeq.github.io/reading-notes2/read05)
 
-6.  [Read6]()
+6.  [Read6](https://maisabdalrazeq.github.io/reading-notes2/read06)
 
 7.  [Read7]()
 
