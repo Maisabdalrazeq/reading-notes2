@@ -21,7 +21,7 @@
 
 8.  [Read8](https://maisabdalrazeq.github.io/reading-notes2/read08)
 
-9.  [Read9]()
+9.  [Read9](https://maisabdalrazeq.github.io/reading-notes2/read09)
 
 10. [Read10]()
 
