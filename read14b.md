@@ -3,7 +3,7 @@
 
 **"Build the Perfect Team"** 
 
-![img](https://lh3.googleusercontent.com/proxy/g0AhPDDOaZqCceJNCsj4fXEBH-KQwzjpTZSAKluaaAG16HSzKKkmO0mww8TOCyMlnw9TOIgBm8fa3Kfb)
+![img](https://thumbs.dreamstime.com/z/banner-team-building-concept-keywords-icons-91461524.jpg)
 
 *even if the teammates shares the same experiences and have a lot in common, it might not be easy for them to work well together, since some times the teammates might jostle for the leadership position or criticized one another’s ideas ,where as people from diffirent backgrounds will enrish each other experiences with new things.*
 
